@@ -1,16 +1,40 @@
-### Hi there 👋
+<!-- Welcome Message -->
+<h1 align="center">👋 Hi there! I'm Claudio Giovannoni, a PhD Student 🎓</h1>
+<p align="center">Welcome to my GitHub profile! 🚀</p>
 
-<!--
-**cgiova/cgiova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Contact Information -->
+<p align="center">
+  🌍 Firenze, Italia | 👨‍💼 Machine Learning, Explainable AI Researcher 🤖
+</p>
 
-Here are some ideas to get you started:
+<!-- Skills and Experiences -->
+<h2>Skills and Experiences</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  🌟 University of Pisa, National Research Council (ISTI - CNR) | 📆 May 2023 - Oct 2023 🌟
+  
+  🚀 Data Science Intern at Timberland, VF Corporation | 🌍 Stabio, Switzerland | 📆 Oct 2022 - Apr 2023 🚀
+  
+  🎓 2nd level Master's Degree in Big Data Analytics & Social Mining | 🏛️ University of Pisa, Tuscany | 📆 Jan 2022 - Jun 2023 | 🏅 Final Grade: 10/10 (Excellent) 🎓
+  📚 Thesis: "Machine Learning for Propensity Modeling in the Outdoor Clothing Industry" 🌟
+  
+  📜 International Master's Degree in Economics & Development | 🏛️ University of Florence | 📆 Sep 2019 - Dec 2021 | 🏅 Final Grade: 105/110 📜
+  📚 Thesis: "Predictive Analytics in Healthcare: a European case for Italy" 🌟
+  
+  🎓 Bachelor's Degree in Development Economics | 🏛️ University of Florence | 📆 Sep 2016 - Oct 2019 | 🏅 Final Grade: 106/110 🎓
+  📚 Thesis: "Chinese Cooperation in Sub-Saharan Africa" 🌟
+  
+  🌍 Italian - Native | 🇬🇧 English - Advanced | 🇪🇸 Spanish - Fluent 🌍
+</p>
+
+<!-- How to Reach Me -->
+<h3 align="left">📫 How to reach me:</h3>
+<p align="left"> 
+  
+<!-- LinkedIn Badge -->
+<a href="https://www.linkedin.com/in/cgiovannoni">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"> <br>
+</a> 
+  
+📧 Email: claudio.giovannoni.mail@gmail.com 📩
+</p>
