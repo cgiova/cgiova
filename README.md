@@ -1,5 +1,5 @@
 <!-- Welcome Message -->
-<h1 align="center">👋 Hi there! I'm Claudio Giovannoni, a PhD Student 🎓</h1>
+<h1 align="center">👋 Hi there! I'm Claudio Giovannoni, PhD Student 🎓 at Unipi </h1>
 <p align="center">Welcome to my GitHub profile! 🚀</p>
 
 <!-- Contact Information -->
