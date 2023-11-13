@@ -4,7 +4,7 @@
 
 <!-- Contact Information -->
 <p align="center">
-  🌍 Firenze, Italia | 👨‍💼 Machine Learning, Explainable AI Researcher 🤖
+  🌍 Firenze, Italia | 👨‍💼 Machine Learning, Explainable AI Researcher, International PhD student in Artificial Intelligence at University of Pisa🤖
 </p>
 
 <!-- Skills and Experiences -->
