@@ -4,14 +4,16 @@
 
 <!-- Contact Information -->
 <p align="center">
-  🌍 Firenze, Italia | 👨‍💼 Machine Learning, Explainable AI Researcher, International PhD student in Artificial Intelligence at University of Pisa🤖
+  🌍 Florence, Italy | 👨‍💼 Machine Learning, Explainable AI Researcher, International PhD student in Artificial Intelligence at University of Pisa🤖
 </p>
 
 <!-- Skills and Experiences -->
 <h2>Skills and Experiences</h2>
 
 <p align="left">
-  🌟 University of Pisa, National Research Council (ISTI - CNR) | 📆 May 2023 - Oct 2023 🌟
+  🌟 National PhD in AI | 📆 Nov 2023 - Current 🌟
+  
+  🌟 University of Pisa, National Research Council (ISTI - CNR) | 📆 May 2023 - Nov 2023 🌟
   
   🚀 Data Science Intern at Timberland, VF Corporation | 🌍 Stabio, Switzerland | 📆 Oct 2022 - Apr 2023 🚀
   
