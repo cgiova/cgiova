@@ -38,6 +38,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"> <br>
 </a> 
   
-📧 Email: claudio.giovannoni.mail@gmail.com
-          clauddio.giovannoni@phd.unipi.it
+📧 Email: 
+<p align="left"> 
+  <ul>
+  <li>claudio.giovannoni.mail@gmail.com </li>
+  <li>claudio.giovannoni@phd.unipi.it </li>
+  </ul>
 </p>
