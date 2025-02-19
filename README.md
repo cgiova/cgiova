@@ -4,7 +4,7 @@
 
 <!-- Contact Information -->
 <p align="center">
-  🌍 Florence, Italy  |  👨‍💼 Machine Learning, Explainable AI Researcher, International PhD student in Artificial Intelligence at University of Pisa 🤖
+  🌍 Pisa, Italy  |  👨‍💼 Machine Learning, Explainable AI Researcher, International PhD student in Artificial Intelligence at University of Pisa 🤖
 </p>
 
 <!-- How to Reach Me -->
@@ -20,6 +20,5 @@
 <p align="left"> 
   <ul>
   <li>claudio.giovannoni.mail@gmail.com </li>
-  <li>claudio.giovannoni@phd.unipi.it </li>
   </ul>
 </p>
